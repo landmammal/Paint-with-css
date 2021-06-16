@@ -1,0 +1,26 @@
+h1 {
+  /* make the background-color the color of the sky */
+  background-color: blue;
+}
+
+h2 {
+  /* make the background-color your favorite color */
+  background-color: black;
+  color: white;
+}
+
+h3 {
+  /* make the background-color tomato and change the color property to make the text white */
+  background-color: tomato;
+  color: papayawhip;
+}
+
+p {
+  /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
+  width: 500px;
+  height: 500px;
+  padding-top: 40px; 
+  margin-top: 100px;
+  line-height: 20px;
+  font-size: 20px;
+}
